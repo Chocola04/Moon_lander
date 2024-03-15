@@ -1,4 +1,14 @@
 pandas
 numpy
 seaborn
+gym == 0.24.0
+Pillow
+tensorflow
+pyvirtualdisplay
+imageio
+imageio[ffmpeg]
+Jinja2
+pyglet==1.5.27
+gym[Box_2D] 
+box2d-py 
 -e .
